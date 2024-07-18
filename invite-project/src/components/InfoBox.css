@@ -1,0 +1,56 @@
+.info-box {
+    padding: 8px;
+    border-radius: 20px;
+    display: flex;
+    flex-direction: column;
+    white-space: pre-line;
+    max-width: 400px;
+    background-color: rgb(255, 255, 255);
+  }
+  
+  .info-text {
+    word-break: break-word;
+  }
+  
+  .info-menu {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+  
+  .info-profile-link {
+    display: flex;
+    gap: 6px;
+    align-items: center;
+    justify-content: between;
+    font-size: 0.95rem;
+    font-weight: 300;
+    text-decoration: none;
+    color: inherit;
+  }
+  
+  .info-profile-icon {
+    height: 30px;
+    width: 30px;
+  }
+  
+  .info-like-button {
+    display: flex;
+    gap: 6px;
+    justify-content: center;
+    align-items: center;
+    background: none;
+    border: none;
+    cursor: pointer;
+    font-size: 1rem;
+    color: inherit;
+  }
+  
+  .info-like-icon {
+    height: 20px;
+    color: red;
+  }
+  
