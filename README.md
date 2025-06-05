@@ -1,4 +1,4 @@
-# INVITE🔷
+# INVITE🔷 (Legacy)
 
 <div align="center">
   <img height="" src="invite-project/public/INVITE.png" alt="INVITE" />
